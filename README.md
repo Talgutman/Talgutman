@@ -9,6 +9,10 @@ My research focuses on cancer genomics, DNA methylation, and the effects of syno
 - **[MiniCpG](https://github.com/Talgutman/MiniCpG)** — A compact 30-CpG DNA methylation classifier for cancer-type assignment. The repository contains a trained model, inference example, and code for validation and analysis. Manuscript in preparation; the release is for academic and non-commercial research use.
 - **[MDR1 variants](https://github.com/Talgutman/MDR1_variants)** — Computational analyses of how MDR1 variants may affect mRNA folding, translation, and protein function. Code associated with the [2024 PLOS Computational Biology paper](https://doi.org/10.1371/journal.pcbi.1012685) and [RECOMB-CG 2024 proceedings paper](https://doi.org/10.1007/978-3-031-58072-7_12).
 
+## Ongoing research
+
+- **PIK3CA noncoding-variant analysis** — Computational investigation of a noncoding PIK3CA variant, integrating cancer-genomics and regulatory data with experimental collaborators. Collaborative manuscript in preparation; the code repository is private while the work is ongoing.
+
 ## Publications
 
 1. Gutman T, Tuller T. [Computational Analysis of MDR1 Variants Predicts Effect on Cancer Cells via their Effect on mRNA Folding](https://doi.org/10.1371/journal.pcbi.1012685). *PLOS Computational Biology* (2024).
